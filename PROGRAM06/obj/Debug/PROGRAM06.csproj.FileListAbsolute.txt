@@ -1,0 +1,7 @@
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\bin\Debug\PROGRAM06.exe.config
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\bin\Debug\PROGRAM06.exe
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\bin\Debug\PROGRAM06.pdb
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\obj\Debug\PROGRAM06.csproj.AssemblyReference.cache
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\obj\Debug\PROGRAM06.csproj.CoreCompileInputs.cache
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\obj\Debug\PROGRAM06.exe
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\PROGRAM06\obj\Debug\PROGRAM06.pdb
