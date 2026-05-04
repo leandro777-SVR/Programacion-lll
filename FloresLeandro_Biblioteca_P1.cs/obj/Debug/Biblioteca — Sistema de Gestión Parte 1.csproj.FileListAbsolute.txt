@@ -1,0 +1,8 @@
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\bin\Debug\Biblioteca — Sistema de Gestión Parte 1.exe.config
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\bin\Debug\Biblioteca — Sistema de Gestión Parte 1.exe
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\bin\Debug\Biblioteca — Sistema de Gestión Parte 1.pdb
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\obj\Debug\Biblioteca — Sistema de Gestión Parte 1.csproj.AssemblyReference.cache
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\obj\Debug\Biblioteca — Sistema de Gestión Parte 1.csproj.CoreCompileInputs.cache
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\obj\Debug\Biblioteca — Sistema de Gestión Parte 1.exe
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\obj\Debug\Biblioteca — Sistema de Gestión Parte 1.pdb
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\Biblioteca — Sistema de Gestión Parte 1\obj\Debug\Biblioteca — Sistema de Gestión Parte 1.exe.config

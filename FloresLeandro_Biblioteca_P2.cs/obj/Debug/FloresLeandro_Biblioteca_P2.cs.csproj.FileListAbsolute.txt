@@ -1,0 +1,8 @@
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\obj\Debug\FloresLeandro_Biblioteca_P2.cs.csproj.AssemblyReference.cache
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\obj\Debug\FloresLeandro_Biblioteca_P2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\bin\Debug\FloresLeandro_Biblioteca_P2.cs.exe.config
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\bin\Debug\FloresLeandro_Biblioteca_P2.cs.exe
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\bin\Debug\FloresLeandro_Biblioteca_P2.cs.pdb
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\obj\Debug\FloresLeandro_Biblioteca_P2.cs.exe
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\obj\Debug\FloresLeandro_Biblioteca_P2.cs.pdb
+C:\Users\Familia Flores\Desktop\Curso de C# Basico\GitHub\FloresLeandro_Biblioteca_P2.cs\obj\Debug\FloresLeandro_Biblioteca_P2.cs.exe.config
